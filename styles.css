@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightpink;
+    color: black;
+    margin: 0;
+    padding: 20px;
+}
+header {
+    background-color: pink;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+h1 {
+    margin: 0;
+    color: purple
+}
+h2 {
+    color: purple;
+}
+p {
+    color : white:
+}
+nav a {
+    color: black;
+    margin: 0 10px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+main {
+    padding: 20px;
+}
+
+.intro {
+    background-color: peach;
+    border: 2px solid lightpink
+    padding: 15px;
+    margin: 15px 0;
+    border-radius: 10px;
+    text-align: center;
+}
+.intro img {
+    max-width: 100%;
+    height: auto;
+    border: 3px solid lightpink;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+
+footer {
+    background-color: purple;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+}
